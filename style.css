@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #b22222; /* Crimson */
+  --primary-color: #f76c00; /* Orange */
   --secondary-color: #333333; /* Slate */
   --accent-color: #f5f5f5; /* Silver */
   --text-dark: #1a1a1a; /* Charcoal */
@@ -71,7 +71,7 @@ nav a:hover {
 /* Hero Section */
 #hero {
   height: 80vh;
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('assets/hero_sports.png');
+  background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('assets/hero_sports.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
